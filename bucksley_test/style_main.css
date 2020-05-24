@@ -509,12 +509,18 @@ article p {
  }
 
 article {
-    line-height: 10px;
+    -webkit-overflow-scrolling: touch;
+    line-height: 12px;
 }
+
+
 }
 
 
-
+.last_footer {
+    background-color: black;
+    text-align: center;
+}
 
 
 

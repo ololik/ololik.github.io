@@ -508,8 +508,12 @@ article p {
      font-size: 15px;
  }
 
-article {
-    line-height: 10px;
+
+
+    article {
+    
+    -webkit-overflow-scrolling: touch;
+    line-height: 12px;
 }
 }
 
@@ -616,6 +620,10 @@ flex: 1 1 40%;
     margin: 30px;
 
    }
-
+.last_footer {
+background-color: black;
+    color: white;
+    text-align: center;
+}
 
 

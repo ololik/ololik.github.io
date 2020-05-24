@@ -254,18 +254,19 @@ label, a{ /*при наведении на стрелки или переклю�
     transition: opacity 0.2s ease-out;
 }
 article {
-    line-height: 10px;
+    line-height: 20px;
 
 }
 article p {
 
-    margin: 20px;
+
 }
 .slider_href {
     align-self: center;
     justify-self: center;
 
 }
+
 
 
 
@@ -301,8 +302,12 @@ article p {
         .slider_href {
             font-size: 20px;
         }
-
-
+    article p {
+        font-size: 40px;
+    }
+    article p2 {
+        font-size: 25px;
+    }
 }
 
 
@@ -495,7 +500,17 @@ article p {
         flex-direction: column;
 
     }
+ article a {
+     text-decoration: none;
+     font-size: 30px;
+ }
+ article p2 {
+     font-size: 15px;
+ }
 
+article {
+    line-height: 10px;
+}
 }
 
 
@@ -569,7 +584,8 @@ flex: 1 1 40%;
 }
 .slider_href {
     background-color: lightslategray;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
+
     border-radius: 10px;
     opacity: 0.7;
 }

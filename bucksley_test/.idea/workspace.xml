@@ -15,9 +15,6 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="ProjectId" id="1c2AHdg2aM05kYkIpr4116KxIl8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,6 +52,10 @@
       <workItem from="1590255367023" duration="1411000" />
       <workItem from="1590314982391" duration="16412000" />
       <workItem from="1590332524198" duration="232000" />
+      <workItem from="1590348480089" duration="1400000" />
+      <workItem from="1590350205664" duration="663000" />
+      <workItem from="1590351127634" duration="1026000" />
+      <workItem from="1590352435062" duration="262000" />
     </task>
     <servers />
   </component>
@@ -62,6 +63,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="600" height="440" key="javadoc.popup" timestamp="1590348719711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.0.1280.680@0.0.1280.680" timestamp="1590348719711" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1589982888011">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

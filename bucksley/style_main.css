@@ -259,7 +259,7 @@ article {
 }
 article p {
 
-    margin: 20px;
+
 }
 .slider_href {
     align-self: center;
@@ -582,7 +582,8 @@ flex: 1 1 40%;
 }
 .slider_href {
     background-color: lightslategray;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
     border-radius: 10px;
     opacity: 0.7;
 }

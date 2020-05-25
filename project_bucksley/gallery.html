@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style_main.css" type="text/css">
+    <link rel="stylesheet" href="style_gallery.css" type="text/css" >
+    <meta name="viewport" content="width=device-width">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="js/jgallery.min.js?v=2.2.1"></script>
+</head>
+<body>
+<div class="header">
+
+
+    <div class="previors">
+        <div class="left_previor">
+
+            <a href="https://www.instagram.com/"> <img src="photo/inst.PNG" id="inst" > </a>
+            <a href="#"><img src="photo/youtube.png" id="youtube"> </a>
+            <a href="https://www.facebook.com/"><img src="photo/facebook.PNG" id="facebook"> </a>
+            <a href="#" ><img src="photo/viber.PNG" id="viber"> </a>
+        </div>
+        <div class="right_previor">
+            <img src="">
+            <p5>bucksler@gmail.com </p5>
+            <img src="">
+            <p5>9:00 AM - 18:00 PM</p5>
+        </div>
+    </div>
+
+    <div class="main_menu" >
+        <div class="logo" >Bucksley</div>
+        <div class="menu">
+            <a href="index.html" class="main_href" >Головна</a>
+            <a href="#" id="gallery_href">Галерея</a>
+            <a href="#" id="categories_href">Категорії</a>
+            <a href="#" id="about_href">Про нас</a>
+            <div id="authorizations"><a href="#" ><img src="photo/authorizations.png" id="authorizations_href"></a></div>
+
+        </div>
+    </div>
+
+</div>
+<div id="gallery">
+</div>
+<script type="text/javascript">
+    document.querySelector('#gallery').appendChild(JGallery.create([{
+        title: 'Images',
+        items: [
+            {
+                url: 'images/large/1.jpg',
+                thumbUrl: 'images/thumbs/1.jpg',
+                title: 'Photo1',
+                hash: 'photo-1'
+            },
+            {
+                url: 'images/large/2.jpg',
+                thumbUrl: 'images/thumbs/2.jpg',
+                title: 'Photo2',
+                hash: 'photo-2'
+            },
+            {
+                url: 'images/large/3.jpg',
+                thumbUrl: 'images/thumbs/3.jpg',
+                title: 'Photo3',
+                hash: 'photo-3'
+            },
+            {
+                url: 'images/large/4.jpg',
+                thumbUrl: 'images/thumbs/4.jpg',
+                title: 'Photo4',
+                hash: 'photo-4'
+            },
+            {
+                url: 'images/large/5.jpg',
+                thumbUrl: 'images/thumbs/5.jpg',
+                title: 'Photo5',
+                hash: 'photo-5'
+            }
+        ]
+    }, {
+        title: 'HTML',
+        items: [
+            {
+                element: JGallery.createElement('<video src="SampleVideo_1280x720_1mb.mp4" loop autoplay/>'),
+                thumbElement: JGallery.createElement('<span>Video</span>'),
+                title: 'Video',
+                hash: 'video'
+            },
+            {
+                element: JGallery.createElement('<span style="font-size: 10vmax">Any HTML content</span>'),
+                thumbElement: JGallery.createElement('<span>HTML</span>'),
+                title: 'HTML',
+                hash: 'html'
+            }
+        ]
+    }]).getElement());
+</script>
+
+
+
+
+
+
+<div class="footer">
+    <div class="nova_poshta">
+        <div class="icon_footer">
+            <img src="photo/nova_poshta.PNG" class="photo_footer">
+
+            <h2>Доставка Новою Поштою</h2>
+        </div>
+
+        <p>Безкоштовна доставка від 500 грн. Безкоштовна доставка від 500 грн. </p>
+
+    </div>
+    <div class="nova_poshta">
+        <div class="icon_footer">
+            <img src="photo/10_years.PNG" class="photo_footer">
+            <h2>Років на ринку</h2>
+        </div>
+        <p>Працюємо з кращими виробниками кавової продукції</p>
+    </div>
+    <div class="nova_poshta">
+        <div class="icon_footer">
+            <img src="photo/10_years.PNG" class="photo_footer">
+            <h2>Онлайн консультація</h2>
+        </div>
+        <p>Наш менеджер відповість на всі Ваші запитання.</p>
+    </div>
+
+
+</div>
+<div class="last_footer">
+    <p>2020 © All right reserved</p>
+</div>
+</body>
+
+
+</html>

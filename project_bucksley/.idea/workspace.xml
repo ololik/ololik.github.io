@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f48b3dc2-01f6-4eca-9e2f-3ad51d5c0a38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c2AHdg2aM05kYkIpr4116KxIl8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f48b3dc2-01f6-4eca-9e2f-3ad51d5c0a38" name="Default Changelist" comment="" />
+      <created>1589716227986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589716227986</updated>
+      <workItem from="1589716230631" duration="1002000" />
+      <workItem from="1589979799249" duration="4469000" />
+      <workItem from="1590044633522" duration="4281000" />
+      <workItem from="1590063796589" duration="12216000" />
+      <workItem from="1590137444142" duration="17715000" />
+      <workItem from="1590225572856" duration="12562000" />
+      <workItem from="1590255367023" duration="1411000" />
+      <workItem from="1590314982391" duration="16412000" />
+      <workItem from="1590332524198" duration="232000" />
+      <workItem from="1590348480089" duration="1400000" />
+      <workItem from="1590350205664" duration="663000" />
+      <workItem from="1590351127634" duration="1026000" />
+      <workItem from="1590352435062" duration="262000" />
+      <workItem from="1590354326611" duration="351000" />
+      <workItem from="1590354941075" duration="62000" />
+      <workItem from="1590394778192" duration="2285000" />
+      <workItem from="1590399142662" duration="317000" />
+      <workItem from="1590405264791" duration="455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1590397543498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590397543498" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1590348719711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.0.1280.680@0.0.1280.680" timestamp="1590348719711" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1589982888011">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589982888011" />
+  </component>
+</project>

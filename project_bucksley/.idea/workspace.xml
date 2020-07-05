@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1c2AHdg2aM05kYkIpr4116KxIl8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -62,6 +66,7 @@
       <workItem from="1590394778192" duration="2285000" />
       <workItem from="1590399142662" duration="317000" />
       <workItem from="1590405264791" duration="455000" />
+      <workItem from="1593952184558" duration="3584000" />
     </task>
     <servers />
   </component>
@@ -73,6 +78,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590397543498" />
+    <state width="247" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1593954622388">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="247" height="198" key="ShowFilterAction_Filter_Popup/0.0.1280.680@0.0.1280.680" timestamp="1593954622388" />
     <state width="600" height="440" key="javadoc.popup" timestamp="1590348719711">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -81,5 +90,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589982888011" />
+    <state x="302" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1593954853241">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="302" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1593954853241" />
   </component>
 </project>
